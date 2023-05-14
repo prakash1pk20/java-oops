@@ -13,6 +13,7 @@ public class HelloWorld {
 		int b = 10;
 		
 		System.out.println("total " +(a+b));
+		System.out.println(5+6);
 		
 		
 	}
